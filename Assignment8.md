@@ -11,8 +11,8 @@
 | | | | | | |
 |-|-|-|-|-|-|
 |__Run__| 1 | 2 | 3 | 4 | 5 |
-| __Q__ | 1 | 2 | 4 | 8 | 16 |
-|__Acc__| _2_ | _4_ | _7_ | _12_ | _31_|
+| __Q__ | 1 | 2 | 4 | 8 | 15 |
+|__Acc__| _1_ | _3_ | _7_ | _15_ | _30_|
 
     Wie wir sehen ist bei Run 5 die Acc über 30. Somit muss es mal geswapped werden.
 
